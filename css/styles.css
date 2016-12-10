@@ -259,4 +259,15 @@ body {
 				left: 0;
 			}
 
-
+.hide {
+	display: none;
+}
+.double {
+	height:5em;
+}
+.red {
+	color:red;
+}
+.tweet-text-spill-container {
+	width:100%;
+}
